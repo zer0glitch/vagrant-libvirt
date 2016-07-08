@@ -1,0 +1,8 @@
+packages:
+- libxslt-devel 
+- libxml2-devel 
+- libvirt-devel 
+- libguestfs-tools-c 
+- ruby-devel
+- ruby
+- rubygems
