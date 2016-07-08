@@ -1,6 +1,6 @@
 galaxy_info:
   author: James Whetsell
-  description: 
+  description: Installation of libvirt/kvm and Vagrant
   company: Red Hat
   
   # If the issue tracker for your role is not on github, uncomment the
